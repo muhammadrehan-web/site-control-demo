@@ -1,14 +1,14 @@
 {
   "hero": {
-    "title": "MCP Test Working",
-    "subtitle": "Edit content.json via site-control apply_edit — live after Vercel deploy.",
-    "cta": "Try MCP now",
+    "title": "No Database Test",
+    "subtitle": "Third test — GitHub apply_edit + Vercel deploy only.",
+    "cta": "Deploy path OK",
     "ctaHref": "#start"
   },
   "theme": {
     "bg": "#0f1419",
     "fg": "#f4f1ea",
-    "accent": "#22c55e",
+    "accent": "#a855f7",
     "muted": "#9aa3ad"
   }
 }
