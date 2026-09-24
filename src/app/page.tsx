@@ -1,9 +1,7 @@
-import { fetchContent } from "@/lib/content";
-import { LiveLanding } from "@/components/LiveLanding";
+import { getContent } from "@/lib/content";
+import { Landing } from "@/components/Landing";
 
-export const dynamic = "force-dynamic";
-
-export default async function Home() {
-  const content = await fetchContent();
-  return <LiveLanding initial={content} />;
+export default function Home() {
+  const content = getContent();
+  return <Landing content={content} />;
 }
