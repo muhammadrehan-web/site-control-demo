@@ -1,14 +1,14 @@
 {
   "hero": {
-    "title": "No Database Test",
-    "subtitle": "Third test — GitHub apply_edit + Vercel deploy only.",
-    "cta": "Deploy path OK",
+    "title": "Fourth MCP Test",
+    "subtitle": "Changed again via GitHub apply_edit — no database.",
+    "cta": "Looks good",
     "ctaHref": "#start"
   },
   "theme": {
     "bg": "#0f1419",
     "fg": "#f4f1ea",
-    "accent": "#a855f7",
+    "accent": "#f97316",
     "muted": "#9aa3ad"
   }
 }
